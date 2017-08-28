@@ -44,12 +44,12 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryan-barrett/Wayfarer.git"
+    "url": "git+https://github.com/caljersey/city-trekkor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryan-barrett/Wayfarer/issues"
+    "url": "https://github.com/caljersey/city-trekkor/issues"
   },
-  "homepage": "https://github.com/ryan-barrett/Wayfarer#readme"
+  "homepage": "https://github.com/caljersey/city-trekkor#readme"
 }
